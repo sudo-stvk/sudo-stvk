@@ -7,13 +7,13 @@
 
 <br/>
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 Currently a first-year Computer Science and Engineering student at RV College of Engineering (RVCE), Bengaluru.
-- 🧠 My primary professional focus is mastering **Data Structures and Algorithms (DSA)** to build a rock-solid foundation for complex problem-solving.
-- 🤖 As a secondary focus, I dive deep into **Artificial Intelligence and Machine Learning**, experimenting with Generative AI and Speech-to-Text models.
-- 🐧 Proud Arch Linux user. I spend my downtime customizing my desktop environment, tweaking Hyprland, Waybar, and SDDM themes for the perfect workflow.
-- 🤝 Active AIML Domain member at **GDG RVCE** and actively involved in campus events with the Rotaract Club.
+-  Currently a first-year Computer Science and Engineering student at RV College of Engineering (RVCE), Bengaluru.
+-  My primary professional focus is mastering **Data Structures and Algorithms (DSA)** to build a rock-solid foundation for complex problem-solving.
+-  As a secondary focus, I dive deep into **Artificial Intelligence and Machine Learning**, experimenting with Generative AI and Speech-to-Text models.
+-  Proud Arch Linux user. I spend my downtime customizing my desktop environment, tweaking Hyprland, Waybar, and SDDM themes for the perfect workflow.
+-  Active AIML Domain member at **GDG RVCE** and actively involved in campus events with the Rotaract Club.
 
 ---
 
@@ -25,7 +25,7 @@
   </picture>
 </div>
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 I work across web development, systems programming, and scripting. Here is my current tech stack:
 
@@ -35,7 +35,7 @@ I work across web development, systems programming, and scripting. Here is my cu
   </a>
 </div>
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <div align="center">
   <a href="https://github.com/sudo-stvk">
