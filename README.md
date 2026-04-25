@@ -22,13 +22,9 @@
 I work across web development, systems programming, and scripting. Here is my current tech stack:
 
 <div align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=55&animation=breathe" alt="HTML" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=55&animation=breathe" alt="CSS" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=55&animation=breathe" alt="JS" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=55&animation=breathe" alt="React" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=55&animation=breathe" alt="Python" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=rust&size=55&animation=breathe" alt="Rust" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=55&animation=breathe" alt="Java" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,rust,java,linux,bash&perline=9" alt="Satvik's Tech Stack" />
+  </a>
 </div>
 
 ### 📊 GitHub Activity
