@@ -37,7 +37,14 @@ I work across web development, systems programming, and scripting. Here is my cu
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-stvk&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
-
+<div align="center">
+  <h3>🐍 My GitHub Contributions Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudo-stvk/sudo-stvk/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudo-stvk/sudo-stvk/output/github-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/sudo-stvk/sudo-stvk/output/github-snake.svg">
+  </picture>
+</div>
 <br/>
 
 <div align="center">
