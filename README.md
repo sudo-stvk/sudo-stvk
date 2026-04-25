@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Satvik Tripathi 👋</h1>
+  <h1>Hi there, I'm Satvik Tripathi </h1>
   <h3>First-Year CSE Student @ RVCE | DSA Enthusiast | AI/ML Explorer</h3>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mastering+Data+Structures+%26+Algorithms;Exploring+AI+%26+Machine+Learning;Ricing+Arch+Linux+(Hyprland);Building+Next-Gen+Projects" alt="Typing SVG" />
@@ -18,7 +18,6 @@
 ---
 
 <div align="center">
-  <h3>🐍 My GitHub Contributions Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudo-stvk/sudo-stvk/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudo-stvk/sudo-stvk/output/github-snake.svg">
