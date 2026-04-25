@@ -8,6 +8,11 @@ on:
   # Allow manual execution
   workflow_dispatch:
 
+# THIS IS THE FIX FOR ERROR 128
+# It explicitly grants the action permission to write to your repository
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,16 +24,16 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: sudo-stvk
-          # Generates both a light and dark mode version
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Pushes the generated SVGs to a new branch called 'output'
+      # Pushes the generated SVGs to the 'output' branch
+      # Updated to v4 to fix the Node.js warning
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0 
         with:
           target_branch: output
           build_dir: dist
