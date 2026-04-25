@@ -27,18 +27,6 @@ I work across web development, systems programming, and scripting. Here is my cu
   </a>
 </div>
 
----
-
-### 🚀 Featured Projects & Experience
-
-- **JARVIS** A voice-controlled AI assistant developed in Python. It leverages the Faster-Whisper library for highly accurate Speech-to-Text processing and integrates the Gemini API to generate dynamic, intelligent responses.
-
-- **Beacon** A streamlined planning application designed with a clean, icon-based user interface using Bootstrap. It features robust automated speech-to-text reporting functionalities to optimize daily task management.
-
-- **Competitive ML & Hackathons** Active participant in competitive programming and ML challenges, including the *Gotta Train 'Em All!* Kaggle competition organized by the RVCE Coding Club, and various overnight campus cybersecurity hackathons.
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
