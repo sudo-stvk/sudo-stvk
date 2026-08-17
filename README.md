@@ -13,7 +13,7 @@
 -  My primary professional focus is mastering **Data Structures and Algorithms (DSA)** to build a rock-solid foundation for complex problem-solving.
 -  As a secondary focus, I dive deep into **Artificial Intelligence and Machine Learning**, experimenting with Generative AI and Speech-to-Text models.
 -  Proud Arch Linux user. I spend my downtime customizing my desktop environment, tweaking Hyprland, Waybar, and SDDM themes for the perfect workflow.
--  Active AIML Domain member at **GDG RVCE** and actively involved in campus events with the Rotaract Club.
+-  Active AIML Domain member at **GDG RVCE** and **CODING CLUB RVCE**.
 
 ---
 
