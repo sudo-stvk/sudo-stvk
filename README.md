@@ -9,7 +9,7 @@
 
 ###  About Me
 
--  Currently a first-year Computer Science and Engineering student at RV College of Engineering (RVCE), Bengaluru.
+-  Currently a second-year Computer Science and Engineering student at RV College of Engineering (RVCE), Bengaluru.
 -  My primary professional focus is mastering **Data Structures and Algorithms (DSA)** to build a rock-solid foundation for complex problem-solving.
 -  As a secondary focus, I dive deep into **Artificial Intelligence and Machine Learning**, experimenting with Generative AI and Speech-to-Text models.
 -  Proud Arch Linux user. I spend my downtime customizing my desktop environment, tweaking Hyprland, Waybar, and SDDM themes for the perfect workflow.
